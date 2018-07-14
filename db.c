@@ -8,7 +8,7 @@
 #include <math.h>
 #include <sys/time.h>
 #include <time.h>
-#include "../sqlite3/sqlite3.h"
+#include <sqlite3.h>
 #include "misc.h"
 #include "adsb.h"
 #include "db.h"
